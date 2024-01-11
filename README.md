@@ -28,19 +28,29 @@
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> 
-   <br/>
-   <br/>
  
+  <br/>
+  
 #### :pencil2: Study log
- 
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepnep123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-#### :signal_strength: Github State
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepnep123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
   <br/>
   
+#### :pencil2: Interest
+<br>
+
+개발 플랫폼 : Unity 3D Engine<br>
+개발 언어 : C, C#, C++, Nodejs, Javascripts<br>
+개발 하드웨어 : HTC Vive, Oculus, Hololens, Android<br>
+AR SDK : Maxst AR, Vuforia, Unity AR Foundation, Visionlib AR
+ 
+  <br/>
+  
+#### :signal_strength: Github State
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nepnep123&show_icons=true)
 <br><br>
 </div>
